@@ -1,3 +1,3 @@
 # Welcome to my page!
 
-Author: Andrew (who works alone)
+Author: Andrew, Alex
