@@ -1,3 +1,3 @@
 # Welcome to my page!
 
-Author: Andrew
+Author: Andrew, Alex
